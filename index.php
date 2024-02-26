@@ -1,4 +1,4 @@
 <?php 
-echo "i am a legend";
+echo "i am a human";
 
  ?>
